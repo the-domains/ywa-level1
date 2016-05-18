@@ -1,0 +1,14 @@
+layout_spectrum: 0.01675873575732112
+typography_spectrum: 0.1564319666940719
+color:
+  brandStrength: 0.21838601352646947
+  lightness: 0.502761141397059
+  saturation: 0.580955799901858
+  rhythmicContrast: 0.628519096178934
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: YWA-Level1
